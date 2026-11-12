@@ -39,7 +39,6 @@ UE: column
 ### Right Pinky: 
 I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another classic column, but turned into a triangle cluster in order to allow for better rolling motions. This new position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row. 
 
-
 # Recommendations
 ### Wide-Mod/Thumb Shift:
 ![wide-mod](https://i.ibb.co/60mgcrwR/415-A3-DBF-F29-D-4146-8771-A5-F0-A1-C057-B9.jpg)
