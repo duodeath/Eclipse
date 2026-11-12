@@ -1,5 +1,5 @@
 # Eclipse
-## Alternative keyboard layout designed for typing on standard row-staggered keyboards
+## An alternative keyboard layout designed for typing on standard row-staggered keyboards
 ![eclipse](https://i.ibb.co/zWbbgn6H/A2900669-E6-CC-4-B40-A392-D17-B2-FB7836-A.jpg)
 
 ### Summary:
