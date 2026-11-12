@@ -1,6 +1,6 @@
 # Eclipse
 ## Alternative keyboard layout designed for typing on standard row-staggered keyboards
-![eclipse](https://i.ibb.co/rfbKXzvm/Screenshot-2026-11-11-at-11-48-09-PM.png)
+![eclipse]([https://i.ibb.co/rfbKXzvm/Screenshot-2026-11-11-at-11-48-09-PM.png](https://i.ibb.co/zWbbgn6H/A2900669-E6-CC-4-B40-A392-D17-B2-FB7836-A.jpg))
 ### Summary:
 
 The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index utilize for alt-fingering to achieve even lower SFB. 
