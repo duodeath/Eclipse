@@ -51,7 +51,7 @@ ALREADY:
 # Suggestions
 ### Wide-Mod is highly recommended:
 ![wide-mod](https://i.ibb.co/60mgcrwR/415-A3-DBF-F29-D-4146-8771-A5-F0-A1-C057-B9.jpg)
-Instead of the typical double pinky shift setup found on most layouts, this modification moves shift and caps-lock to the right thumb since they are similar in function, as well as moving the entire right hand one position over to the right in order to improve the angle in which these new thumb keys are used. This helps lower pinky usage and movement, and you no longer need to decide whether or not to use left or right shift while typing capital B N or Z keys as there's only one shift key.
+Instead of the typical double pinky shift setup found on most layouts, this modification moves shift and caps-lock to the right thumb since they are similar in function, as well as moving the entire right hand one position over to the right in order to improve the angle in which these new thumb keys are used. This helps lower pinky usage and movement, and you no longer need to decide whether or not to use left or right shift while typing capital B N or Z keys as there's only one shift key appointed to a thumb with no other responsibilities, unlike the pinkies which have their own letters to deal with.
 
 Left thumb spacing is recommended for lowering redirects and increasing rolls, and enter is paired with the left thumb as well because enter and space interact with letters in a very similar way yet never interact with each other meaning no SFB drawbacks. The new backspace position is also much closer, as it is now directly next to the home-row I key.
 
