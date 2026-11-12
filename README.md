@@ -30,10 +30,10 @@ DTMVKQ is the other main cause of SFS and the total usage is quite high, but it'
 GCWPYJ is a much lighter index and the main SFBs PY CY GY in words like TYPE FANCY and ENERGY are able to be alt-fingered away due to the central Y positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
 
 ### Right Middle:
-OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOUT and DON'T but overall this arrangement provides more positives than it does negatives as a result of being part of the modern vowel block. 
+OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOUT and DON'T but overall this arrangement provides more positives than it does negatives as a result of maintaining the modern vowel block which helps keep total SFB and redirects low.
 
 ### Right Ring:
-UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help promote typing them faster.
+UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help promote typing these bigrams faster.
 
 ### Right Pinky: 
 I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved ergonomics and naturally angles your hand and wrist in a beneficial way. 
