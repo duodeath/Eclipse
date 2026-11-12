@@ -10,15 +10,15 @@ ZXQJ, the lowest frequency letters are placed in the farthest corners of the key
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation. The weakest aspect of Eclipse is the higher than average SFS percentage, which is mostly caused by the left middle and left index finger columns, however this is at least slightly mitigated by being on dominant fingers. 
 
 
-Detailed Finger Analysis
-Left Pinky:
+## Detailed Finger Analysis
+### Left Pinky:
 BNZ column is only responsible for roughly 0.01% SFB, 0.10% SFS, and 6.6% usage. This is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger.
 
-Left Ring:
+### Left Ring:
 FSX column is similar to BNZ with around 0.01% SFB, 0.16% SFS, and 6.5% usage. This column is also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably.
 
-Left Middle:
+### Left Middle:
 RLH is one of the main sources of SFS with 0.14% SFB, 0.78% SFS, and 11.8% usage. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, so placing it on a strong and flexible middle finger allows you to alt-finger almost all SFBs present like RL HR and HL. 
 
-Left Index:
+### Left Index:
 DTMVKQ is the other main cause of SFS with 0.03% SFB, 1.3% SFS, and 14% usage. 
