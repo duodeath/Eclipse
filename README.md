@@ -1,6 +1,6 @@
 # Eclipse
 ## Alternative keyboard layout designed for typing on standard row-staggered keyboards
-
+![eclipse](https://i.ibb.co/rfbKXzvm/Screenshot-2026-11-11-at-11-48-09-PM.png)
 ### Summary:
 
 The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index utilize for alt-fingering to achieve even lower SFB. 
@@ -12,7 +12,7 @@ The redirects and rolls are both on the low side, which isn't positive or negati
 
 ## Finger Analysis
 ### Left Pinky:
-![https://ibb.co/N6RBwXfN](https://i.ibb.co/gMYKsGQW/FE3-CBBFC-4747-464-F-99-C6-89-C24-C55439-F.jpg)
+![BNZ](https://i.ibb.co/gMYKsGQW/FE3-CBBFC-4747-464-F-99-C6-89-C24-C55439-F.jpg)
 
 BNZ column is only responsible for roughly 0.01% SFB, 0.10% SFS, and 6.6% usage. This is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger.
 
