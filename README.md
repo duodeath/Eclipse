@@ -47,7 +47,7 @@ I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another class
 
 
 # Overview
-Eclipse makes some sacrifices to achieve very low SFB, but overall I would say it's worth it. The layout still feels rolly at times because it actually has a high percentage of 3rolls like COULD WOULD WORLD POINT YOU while also maintaining decently low redirects. The ZXQJ positions being assigned where they are is quite nice, blocking off the worst positions of the keyboard and keeping fingers from being overburdened. The finger-map may take some extra time to get used to but I believe it naturally pairs well with the standard row-staggered form factor. I would only stray from the finger-map while alt-fingering away SFBs and certain SFS like M_V with left index and middle.
+Eclipse makes some sacrifices to achieve very low SFB, but overall I would say it's worth it. The layout still feels rolly at times because it actually has a high percentage of 3rolls like COULD WOULD WORLD POINT YOU while also maintaining decently low redirects. The ZXQJ positions being assigned where they are is quite nice, blocking off the worst positions of the keyboard and keeping fingers from being overburdened. The fingermap may take some extra time to get used to but I believe it naturally pairs well with the standard row-staggered form factor. I would mainly stray from the fingermap only while alt-fingering away SFBs and some certain SFS like M_V with left index and middle.
 
 
 # Recommendations
