@@ -2,6 +2,7 @@
 ## An alternative keyboard layout designed for typing on standard row-staggered keyboards
 ![eclipse](https://i.ibb.co/zWbbgn6H/A2900669-E6-CC-4-B40-A392-D17-B2-FB7836-A.jpg)
 
+
 ### Summary:
 
 The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index utilize for alt-fingering to achieve even lower SFB. 
@@ -10,10 +11,12 @@ ZXQJ are the lowest frequency letters so they are placed in the farthest corners
 
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation. The weakest aspect of Eclipse is its high SFS percentage, which is mostly caused by the left middle and left index finger columns, however this is at least slightly mitigated by being on dominant fingers. 
 
+
 ## Stats:
 ![stats](https://i.ibb.co/Ng3RMGvc/Screenshot-2026-11-12-at-12-59-12-AM.png)
 (Website: Akl.gg / Monkeyracer Corpus / SG: On / Left Thumb Spacing / Alt-Fingering Enabled
 https://akl.gg/#.gQC6MDFNNzZYWENKWEMxUUpBWUhXNTQ2TlFGRTE
+
 
 
 ## Finger Analysis
@@ -42,8 +45,10 @@ UE: column
 ### Right Pinky: 
 I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another classic column, but turned into a triangle cluster in order to allow for better rolling motions. This new position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row. 
 
+
 # Overview
 Eclipse makes some sacrifices to achieve very low SFB, but overall I would say it's worth it. The layout still feels rolly at times because it actually has a high percentage of 3rolls like COULD WOULD WORLD POINT YOU while also maintaining decently low redirects. The ZXQJ positions being assigned where they are is quite nice, blocking off the worst positions of the keyboard and keeping fingers from being overburdened. The finger-map may take some extra time to get used to but I believe it naturally pairs well with the standard row-staggered form factor. I would only stray from the finger-map while alt-fingering away SFBs and only some SFS like MOVE: Li Rm Lm Rr in order to avoid the jump from bottom to top row. 
+
 
 # Recommendations
 ### Wide-Mod/Thumb Shift:
@@ -51,6 +56,7 @@ Eclipse makes some sacrifices to achieve very low SFB, but overall I would say i
 Instead of the typical double pinky shift setup found on most layouts, this modification moves shift and caps-lock to the right thumb since they are similar in function, as well as moving the entire right hand one position over to the right in order to improve the angle in which these new thumb keys are used. This helps lower pinky usage and movement, and you no longer need to decide whether to use left or right shift while typing capital B N or Z keys as there's only one shift key appointed to thumb with no other responsibilities, unlike the pinkies which have their own letters to deal with.
 
 Left thumb spacing is recommended for lowering redirects and increasing rolls, and enter is paired with the left thumb as well because enter and space interact with letters in a very similar way yet never interact with each other meaning no SFB drawbacks. The new backspace position is also much closer, as it is now directly next to the home-row I key.
+
 
 # Installation Guide:
 ### Installation Guide:
