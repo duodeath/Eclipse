@@ -18,7 +18,7 @@ The redirects and rolls are both on the low side, which isn't positive or negati
 BNZ column is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger. SFBs in words like RAINBOW, BRONZE and SFS in BAND, ZONE are rare enough to make sure this the lowest SFB/SFS column in the layout.
 
 ### Left Ring:
-FSX column is similar to BNZ since it's also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably. Slightly higher SFS in this column in words like SAFE SIX and FIX but using left middle for X can sometimes help reduce SFS and improve scissors in words like ANXIETY. 
+FSX column is similar to BNZ since it's also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably. Slightly higher SFS in this column in words like FAST SIX and FIX but using left middle for X can sometimes help reduce SFS and improve scissors in words like ANXIETY. 
 
 ### Left Middle:
 RLH is one of the main sources of SFB and SFS but there is a plan. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, therefore it is placed on a strong and flexible middle finger allowing you to alt-finger almost all SFBs present like RL HR and HL in words like WORLD THROUGH and HIGHLY.
