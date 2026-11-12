@@ -22,10 +22,10 @@ BNZ column is only responsible for roughly 0.01% SFB, 0.10% SFS, and 6.6% usage.
 FSX column is similar to BNZ with around 0.01% SFB, 0.16% SFS, and 6.5% usage. This column is also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably.
 
 ### Left Middle:
-RLH is one of the main sources of SFS with 0.14% SFB, 0.78% SFS, and 11.8% usage. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, so placing it on a strong and flexible middle finger allows you to alt-finger almost all SFBs present like RL HR and HL. 
+RLH is one of the main sources of SFB and SFS with 0.14% SFB, 0.78% SFS, and 11.8% usage. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, therefore it is placed on a strong and flexible middle finger allowing you to alt-finger almost all SFBs present like RL HR and HL. 
 
 ### Left Index:
-DTMVKQ is the other main cause of SFS with 0.03% SFB, 1.3% SFS, and 14% usage. The total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are only responsible for 1.7%. Most bigrams like DV TD and TM can be alt-fingered or sliding is helpful for bigrams like DM.
+DTMVKQ is the other main cause of SFS with 0.03% SFB, 1.3% SFS, and 14% usage. The total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are responsible for only 1.7%. Most SFBs like DV TD and TM can be alt-fingered or sliding is helpful for bigrams like DM.
 
 ### Right Index:
 GCWPYJ is a much lighter index with 0.06% SFB, 0.60% SFS, and 8.8% usage. The main SFBs PY CY GY are able to be alt-fingered away due to the central Y key positioning using middle finger for Y and the main SFS sources like W_Y P_C and P_Y are all adjacent to allow for low movement.
