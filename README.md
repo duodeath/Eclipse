@@ -1,7 +1,7 @@
 # Eclipse
-Eclipse is an alternative keyboard layout designed for typing on standard row-staggered keyboards.
+## Eclipse is an alternative keyboard layout designed for typing on standard row-staggered keyboards.
 
-Summary:
+### Summary:
 
 The main objective of Eclipse is extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages which stronger fingers like middle and index utilize for alt-fingering to achieve even lower SFB. 
 
