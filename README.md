@@ -11,13 +11,13 @@ ZXQJ are the lowest frequency letters so they are placed in the farthest corners
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation. The weakest aspect of Eclipse is its high SFS percentage, which is mostly caused by the left middle and left index finger columns, however this is at least slightly mitigated by being on dominant fingers. 
 
 ## Stats:
-![fingermap](https://i.ibb.co/XZfjN8yn/Screenshot-2026-11-12-at-3-19-33-AM.png)
 ![stats](https://i.ibb.co/Ng3RMGvc/Screenshot-2026-11-12-at-12-59-12-AM.png)
 (Website: Akl.gg / Monkeyracer Corpus / SG: On / Left Thumb Spacing / Alt-Fingering Enabled
 https://akl.gg/#.gQC6MDFNNzZYWENKWEMxUUpBWUhXNTQ2TlFGRTE
 
 
 ## Finger Analysis
+![fingermap](https://i.ibb.co/XZfjN8yn/Screenshot-2026-11-12-at-3-19-33-AM.png)
 ### Left Pinky:
 BNZ column is only responsible for roughly 0.01% SFB, 0.10% SFS, and 6.6% usage. This is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger.
 
