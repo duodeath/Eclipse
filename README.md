@@ -10,7 +10,7 @@ ZXQJ, the lowest frequency letters are placed in the farthest corners of the key
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation. The weakest aspect of Eclipse is its high SFS percentage, which is mostly caused by the left middle and left index finger columns, however this is at least slightly mitigated by being on dominant fingers. 
 
 
-## Detailed Finger Analysis
+## Finger Analysis
 ### Left Pinky:
 ![https://ibb.co/N6RBwXfN](https://i.ibb.co/gMYKsGQW/FE3-CBBFC-4747-464-F-99-C6-89-C24-C55439-F.jpg)
 
