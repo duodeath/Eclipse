@@ -27,16 +27,16 @@ RLH is one of the main sources of SFB and SFS but there is a plan. The letters a
 DTMVKQ is the other main cause of SFS and the total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are responsible for only 1.7% of the usage. SFBs like DV and TD can be alt-fingered while bigrams like DM and TM in words like ADMIT and NIGHTMARE are 
 
 ### Right Index:
-GCWPYJ is a much lighter index and the main SFBs PY CY GY in words like TYPE FANCY and ENERGY are able to be alt-fingered away due to the central Y position. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
+GCWPYJ is a much lighter index and the main SFBs PY CY GY in words like TYPE FANCY and ENERGY are able to be alt-fingered away due to the central Y positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
 
 ### Right Middle:
-OA' column deals with 0.04% SFB, 0.52% SFS, and 13% usage.
+OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOUT and DON'T but overall this arrangement provides more positives than it does negatives as a result of being part of the modern vowel block. 
 
 ### Right Ring:
-UE: column
+UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help increase speed.
 
 ### Right Pinky: 
-I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another classic column, but turned into a triangle cluster in order to allow for better rolling motions. This new position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row. 
+I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved ergonomics and naturally angles your hand and wrist in a beneficial way. 
 
 
 # Recommendations
