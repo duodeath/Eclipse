@@ -1,5 +1,5 @@
 # Eclipse
-Eclipse is an alternative keyboard layout designed for typing on standard row-staggered keyboards for English.
+Eclipse is an alternative keyboard layout designed for typing on standard row-staggered keyboards.
 
 The main benefit of Eclipse is the extremely low SFB percentage, especially on the left pinky and ring fingers: BNZ and FSX columns roughly amount to a combined total of only 0.02% SFB and 0.26% SFS. 
 
