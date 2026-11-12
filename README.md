@@ -1,6 +1,8 @@
 # Eclipse
 ## An alternative keyboard layout designed for typing on standard row-staggered keyboards
 ![eclipse](https://i.ibb.co/zWbbgn6H/A2900669-E6-CC-4-B40-A392-D17-B2-FB7836-A.jpg)
+## Fingermap:
+![fingermap](https://i.ibb.co/XZfjN8yn/Screenshot-2026-11-12-at-3-19-33-AM.png)
 
 ### Summary:
 
