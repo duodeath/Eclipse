@@ -39,29 +39,6 @@ UE: column
 ### Right Pinky: 
 I., is  
 
-# Alt-Fingering 
-
-
-
-### HR/RH
-THREE: Li Lm Lr Rr Rr
-PERHAPS: Ri Rr Lr Lm Rm Ri Lr
-
-### RL/LR
-WORLD: Ri Rm Lr Lm Li
-EARLY: Rr Rm Lm Li Ri
-ALREADY: Rm Li Lm Rr Rm Li Ri
-
-### DV
-ADVICE: Rm Li Lm Rp Ri Rr
-
-### TD
-OUTDOOR: Rm
-
-### TM
-TREATMENT: Li
-
-
 
 # Suggestions
 ### Wide-Mod/Thumb Shift:
@@ -70,3 +47,5 @@ Instead of the typical double pinky shift setup found on most layouts, this modi
 
 Left thumb spacing is recommended for lowering redirects and increasing rolls, and enter is paired with the left thumb as well because enter and space interact with letters in a very similar way yet never interact with each other meaning no SFB drawbacks. The new backspace position is also much closer, as it is now directly next to the home-row I key.
 
+# Links
+### ![layouts.wiki](https://layouts.wiki/layouts/2026/eclipse/)
