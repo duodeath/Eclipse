@@ -12,13 +12,9 @@ The redirects and rolls are both on the low side, which isn't positive or negati
 
 ## Finger Analysis
 ### Left Pinky:
-![BNZ](https://i.ibb.co/gMYKsGQW/FE3-CBBFC-4747-464-F-99-C6-89-C24-C55439-F.jpg)
-
 BNZ column is only responsible for roughly 0.01% SFB, 0.10% SFS, and 6.6% usage. This is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger.
 
 ### Left Ring:
-![FSX](https://i.ibb.co/R4N0jD86/C4558-E1-B-8-A50-49-AF-85-DA-4254-F948-BE92.jpg)
-
 FSX column is similar to BNZ with around 0.01% SFB, 0.16% SFS, and 6.5% usage. This column is also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably.
 
 ### Left Middle:
