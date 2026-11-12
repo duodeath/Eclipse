@@ -5,7 +5,7 @@
 
 The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index utilize for alt-fingering to achieve even lower SFB. 
 
-ZXQJ, the lowest frequency letters are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limit pinky and ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. 
+ZXQJ, the lowest frequency letters are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. 
 
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation. The weakest aspect of Eclipse is the higher than average SFS percentage, which is mostly caused by the left middle and left index finger columns, however this is at least slightly mitigated by being on dominant fingers. 
 
