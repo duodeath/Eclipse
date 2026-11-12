@@ -37,7 +37,7 @@ DTMVKQ is the other main cause of SFS with 0.03% SFB, 1.3% SFS, and 14% usage. T
 GCWPYJ is a much lighter index with 0.06% SFB, 0.60% SFS, and 8.8% usage. The main SFBs PY CY GY are able to be alt-fingered away due to the central Y key positioning using middle finger for Y and the main SFS sources like W_Y P_C and P_Y are all adjacent to allow for low movement.
 
 ### Right Middle:
-OA' column 
+OA' column deals with 0.04% SFB, 0.52% SFS, and 13% usage.
 
 ### Right Ring:
 UE: column
