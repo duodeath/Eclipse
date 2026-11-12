@@ -13,6 +13,8 @@ The redirects and rolls are both on the low side, which isn't positive or negati
 ## Stats:
 ![stats](https://i.ibb.co/Ng3RMGvc/Screenshot-2026-11-12-at-12-59-12-AM.png)
 (Website: Akl.gg / Monkeyracer Corpus / SG: On / Left Thumb Spacing / Alt-Fingering Enabled
+https://akl.gg/#.gQC6MDFNNzZYWENKWEMxUUpBWUhXNTQ2TlFGRTE
+
 
 ## Finger Analysis
 ### Left Pinky:
@@ -39,6 +41,9 @@ UE: column
 ### Right Pinky: 
 I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another classic column, but turned into a triangle cluster in order to allow for better rolling motions. This new position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row. 
 
+# Overview
+Eclipse makes some sacrifices to achieve very low SFB, but overall I would say it's worth it. The layout still feels rolly at times because it actually has a high amount of 3rolls like COULD WOULD WORLD POINT YOU while also maintaining decently low redirects. The ZXQJ positions being assigned where they are is quite nice, blocking off the worst positions of the keyboard and keeping fingers from being overburdened. The finger-map may take some extra time to get used to, but I believe it is quite intuitive, I 
+
 # Recommendations
 ### Wide-Mod/Thumb Shift:
 ![wide-mod](https://i.ibb.co/60mgcrwR/415-A3-DBF-F29-D-4146-8771-A5-F0-A1-C057-B9.jpg)
@@ -46,9 +51,6 @@ Instead of the typical double pinky shift setup found on most layouts, this modi
 
 Left thumb spacing is recommended for lowering redirects and increasing rolls, and enter is paired with the left thumb as well because enter and space interact with letters in a very similar way yet never interact with each other meaning no SFB drawbacks. The new backspace position is also much closer, as it is now directly next to the home-row I key.
 
-# Links
+# Installation Guide:
 ### Installation Guide:
 ### https://layouts.wiki/layouts/2026/eclipse/
-
-### Statistics:
-### https://akl.gg/#.gQC6MDFNNzZYWENKWEMxUUpBWUhXNTQ2TlFGRTE
