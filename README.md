@@ -40,7 +40,7 @@ UE: column
 I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another classic column, but turned into a triangle cluster in order to allow for better rolling motions. This new position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row. 
 
 
-# Suggestions
+# Recommendations
 ### Wide-Mod/Thumb Shift:
 ![wide-mod](https://i.ibb.co/60mgcrwR/415-A3-DBF-F29-D-4146-8771-A5-F0-A1-C057-B9.jpg)
 Instead of the typical double pinky shift setup found on most layouts, this modification moves shift and caps-lock to the right thumb since they are similar in function, as well as moving the entire right hand one position over to the right in order to improve the angle in which these new thumb keys are used. This helps lower pinky usage and movement, and you no longer need to decide whether to use left or right shift while typing capital B N or Z keys as there's only one shift key appointed to thumb with no other responsibilities, unlike the pinkies which have their own letters to deal with.
