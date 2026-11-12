@@ -5,7 +5,7 @@
 
 ### Summary:
 
-The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index take advantage of with alt-fingering to achieve even lower SFB. The intuitive alt-fingering effectively halves the amount of SFB, which is a rare case where the SFB and alt-fingering are actually very close in percentage around 0.18%, which means it's easy to learn the fingerings and provides great bang for your buck usefulness in reducing SFB without requiring much extra effort.
+The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index take advantage of with alt-fingering to achieve even lower SFB. The intuitive alt-fingering effectively halves the amount of SFB, which is a rare case where the SFB and alt-fingering are actually very close in frequency around 0.18%, which means it's easy to learn the fingerings and provides great bang for your buck usefulness in reducing SFB without requiring much extra effort.
 
 ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. 
 
