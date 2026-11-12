@@ -48,8 +48,8 @@ Instead of the typical double pinky shift setup found on most layouts, this modi
 Left thumb spacing is recommended for lowering redirects and increasing rolls, and enter is paired with the left thumb as well because enter and space interact with letters in a very similar way yet never interact with each other meaning no SFB drawbacks. The new backspace position is also much closer, as it is now directly next to the home-row I key.
 
 # Links
-Installation Guide:
+### Installation Guide:
 ### https://layouts.wiki/layouts/2026/eclipse/
 
-Statistics:
+### Statistics:
 ### https://akl.gg/#.gQC6MDFNNzZYWENKWEMxUUpBWUhXNTQ2TlFGRTE
