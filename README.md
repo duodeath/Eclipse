@@ -18,6 +18,7 @@ BNZ column is only responsible for roughly 0.01% SFB, 0.10% SFS, and 6.6% usage.
 
 ### Left Ring:
 ![FSX](https://i.ibb.co/R4N0jD86/C4558-E1-B-8-A50-49-AF-85-DA-4254-F948-BE92.jpg)
+
 FSX column is similar to BNZ with around 0.01% SFB, 0.16% SFS, and 6.5% usage. This column is also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably.
 
 ### Left Middle:
