@@ -1,8 +1,6 @@
 # Eclipse
 ## An alternative keyboard layout designed for typing on standard row-staggered keyboards
 ![eclipse](https://i.ibb.co/zWbbgn6H/A2900669-E6-CC-4-B40-A392-D17-B2-FB7836-A.jpg)
-## Fingermap:
-![fingermap](https://i.ibb.co/XZfjN8yn/Screenshot-2026-11-12-at-3-19-33-AM.png)
 
 ### Summary:
 
@@ -13,6 +11,7 @@ ZXQJ are the lowest frequency letters so they are placed in the farthest corners
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation. The weakest aspect of Eclipse is its high SFS percentage, which is mostly caused by the left middle and left index finger columns, however this is at least slightly mitigated by being on dominant fingers. 
 
 ## Stats:
+![fingermap](https://i.ibb.co/XZfjN8yn/Screenshot-2026-11-12-at-3-19-33-AM.png)
 ![stats](https://i.ibb.co/Ng3RMGvc/Screenshot-2026-11-12-at-12-59-12-AM.png)
 (Website: Akl.gg / Monkeyracer Corpus / SG: On / Left Thumb Spacing / Alt-Fingering Enabled
 https://akl.gg/#.gQC6MDFNNzZYWENKWEMxUUpBWUhXNTQ2TlFGRTE
