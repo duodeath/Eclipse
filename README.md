@@ -3,7 +3,7 @@
 ![eclipse](https://i.ibb.co/zWbbgn6H/A2900669-E6-CC-4-B40-A392-D17-B2-FB7836-A.jpg)
 ## Stats:
 ![stats](https://i.ibb.co/Ng3RMGvc/Screenshot-2026-11-12-at-12-59-12-AM.png)
-(Website: Akl.gg / Monkeyracer Corpus / SG: On / Left Thumb Spacing / Alt-Fingering enabled
+(Website: Akl.gg / Monkeyracer Corpus / SG: On / Left Thumb Spacing / Alt-Fingering Enabled
 
 ### Summary:
 
