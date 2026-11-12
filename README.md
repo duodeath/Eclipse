@@ -37,7 +37,7 @@ OA' column
 UE: column
 
 ### Right Pinky: 
-I., is  
+I., is responsible for 0.01% SFB, 0.50% SFS, and 8% usage. This is another classic column, but turned into a cluster in order to allow for better rolling motions. This position helps while typing things like YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row , but now the U and , keys are placed on the same row. 
 
 
 # Suggestions
