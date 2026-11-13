@@ -36,10 +36,14 @@ OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOU
 UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help promote typing these bigrams faster.
 
 ### Right Pinky: 
-I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique position helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved ergonomics and naturally angles your hand and wrist in a beneficial way. 
+I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique positioning helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved rolling and naturally angles your hand and wrist in an ergonomic way. 
 
 
-# Recommendations
+# Inspirations
+Eclipse is very similar to the Night layout, hence the name association, with the biggest difference of rearranging the index columns, moving V from ring to index to help lower weak finger usage while prioritizing dominant fingers, and moving the R key from left thumb onto the main board, although a few other layouts were first to make this change like Knight, Nightshift, and Nightlight. The RLH cluster and fingermap were borrowed features from the Nokwts layout, which must be praised for its creativity and usefulness in providing flexible alt-fingerings that pair well within the standard row-staggered form factor. Perhaps the first layout creation that showcases many of the same columns as Night and Eclipse, is Flow2: BN pinky, FS ring, RLH middle, DTMKQ left index, GCWPYJ right index, with some different arrangements but the similarities make it clear this is likely the layout to first utilize these columns.
+
+
+# Additional Recommendations
 ### Wide-Mod/Thumb Shift:
 ![wide-mod](https://i.ibb.co/60mgcrwR/415-A3-DBF-F29-D-4146-8771-A5-F0-A1-C057-B9.jpg)
 Instead of the typical double pinky shift setup found on most layouts, this modification moves shift and caps-lock to the right thumb since they are similar in function, as well as moving the entire right hand one position over to the right in order to improve the angle in which these new thumb keys are used. This helps lower pinky usage and movement, and you no longer need to decide whether to use left or right shift while typing capital B N or Z keys as there's only one shift key appointed to thumb with no other responsibilities, unlike the pinkies which have their own letters to deal with.
@@ -47,7 +51,7 @@ Instead of the typical double pinky shift setup found on most layouts, this modi
 Left thumb spacing is recommended for lowering redirects and increasing rolls, and enter is paired with the left thumb as well because enter and space interact with letters in a very similar way yet never interact with each other meaning no SFB drawbacks. The new backspace position is also much closer, as it is now directly next to the home-row I key.
 
 
-# Installation Guide:
+# Installation Guide
 ### https://layouts.wiki/layouts/2026/eclipse/
-# Analysis:
+# Analysis
 ### https://akl.gg/#.gQC6MDFNMkNaOVkyUUE5UEhZTTZYQVhEVlg3WTM
