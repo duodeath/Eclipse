@@ -24,23 +24,23 @@ FSX column is similar to BNZ since it's also popular as a pinky column found in 
 RLH is one of the main sources of SFB and SFS but there is a design plan for this. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, therefore it is placed on a strong and flexible middle finger allowing you to alt-finger almost all SFBs present like RL HR and HL in words like WORLD THROUGH and HIGHLY.
 
 ### Left Index:
-DTMVKQ is the other main cause of SFS and the total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are responsible for only 1.7% of the usage. SFBs like DV and TD can be alt-fingered while bigrams like DM and TM in words like ADMIT and NIGHTMARE are 
+DTMVKQ is the other main cause of SFS and the total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are responsible for only 1.7% of the usage. SFBs like DV and TD can be alt-fingered meanwhile bigrams like DM and TM in words like ADMIT and NIGHTMARE are best to dealt with head-on rather than alt-fingered.
 
 ### Right Index:
-GCWPYJ is a much lighter index and the main SFBs PY CY GY in words like TYPE FANCY and ENERGY are able to be alt-fingered away due to the central Y positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
+GCWPYJ is a much lighter index and the main SFBs PY CY GY in words like TYPE FANCY and ENERGY are able to be alt-fingered away due to the central Y key positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
 
 ### Right Middle:
 OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOUT and DON'T but overall this arrangement provides more positives than it does negatives as a result of maintaining the modern vowel block which helps keep total SFB and redirects low.
 
 ### Right Ring:
-UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help promote typing these bigrams faster.
+UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help promote typing these bigrams faster. The usage is also quite high since E is the most frequent letter, 
 
 ### Right Pinky: 
-I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique positioning helps while typing things like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved rolling and naturally angles your hand and wrist in an ergonomic way. 
+I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique positioning helps while typing sequences like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved rolling and naturally angles your hand and wrist in an ergonomic way. 
 
 
 # Inspirations
-Eclipse is very similar to the Night layout, hence the name association, with the biggest difference of rearranging the index columns, moving V from ring to index to help lower weak finger usage while prioritizing dominant fingers, and moving the R key from left thumb onto the main board, although a few other layouts were first to make this change like Knight, Nightshift, and Nightlight. The RLH cluster and fingermap were borrowed features from the Nokwts layout, which must be praised for its creativity and usefulness in providing flexible alt-fingerings that pair well within the standard row-staggered form factor. Perhaps the first layout creation that showcases many of the same columns as Night and Eclipse, is Flow2: BN pinky, FS ring, RLH middle, DTMKQ left index, GCWPYJ right index, with some different arrangements but the similarities make it clear this is likely the layout to first utilize these columns.
+Eclipse is very similar to the Night layout, hence the name association, with the biggest difference of rearranging the index columns, moving V from ring to index to help lower weak finger usage while prioritizing dominant fingers, and moving the R key from left thumb onto the main board, although a few other layouts were first to make this change like Knight, Nightshift, and Nightlight. The RLH cluster and fingermap were borrowed features from the Nokwts layout, which must be praised for its creativity and usefulness in providing flexible alt-fingerings that pair well with the standard row-staggered form factor. Perhaps the first layout creation that showcases many of the same columns as Night and Eclipse, is Flow2: BN pinky, FS ring, RLH middle, DTMKQ left index, GCWPYJ right index, with some different arrangements but the similarities make it clear this is likely the layout to first utilize these columns.
 
 
 # Additional Recommendations
