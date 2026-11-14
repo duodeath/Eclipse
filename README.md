@@ -5,11 +5,11 @@
 
 ### Summary:
 
-The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index take advantage of with alt-fingering to achieve even lower SFB. The intuitive alt-fingering effectively halves the amount of SFB, this is a rare case where the SFB and alt-fingering are actually very close in frequency around 0.18% for each, which means this provides great bang for your buck usefulness in reducing SFB without requiring much extra effort.
+The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers because they lack dexterity and anatomical freedom advantages that stronger fingers like middle and index take advantage of with alt-fingering to achieve even lower SFB. The intuitive alt-fingering effectively halves the amount of SFB, this is a rare case where the SFB and alt-fingering % are very close in frequency around 0.18% for each, which means this provides great bang for your buck usefulness in reducing SFB without requiring much extra effort learning alternative fingerings.
 
 ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. 
 
-The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation, although Eclipse does surprisingly have a high percentage of 3rolls in words like COULD WOULD WORLD POINT YOU etc. The weakest aspect of Eclipse is its high SFS percentage, which is mostly caused by the left middle and left index finger columns, but this is at least slightly mitigated by being on dominant fingers. 
+The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation, although Eclipse does surprisingly have a high percentage of 3rolls in words like COULD WOULD WORLD POINT YOU etc. The weakest aspects of Eclipse are lateral stretches like RD and CA as well as its high SFS percentage, which is mostly caused by the left middle and left index finger columns, but this is at least slightly mitigated by being on dominant fingers. 
 
 
 ## Fingermap Analysis
