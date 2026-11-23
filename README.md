@@ -4,7 +4,6 @@
 
 
 ## Summary
-
 The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers as they lack anatomical freedom and the positional benefits that middle and index finger columns take advantage of with alt-fingering to achieve even lower SFB. Eclipse's intuitive alt-fingering effectively halves the already low amount of SFB, this creates a case where the SFB and alt-fingering percentage are close in frequency, providing great bang for your buck value in reducing SFB without requiring much extra effort in the learning process.
 
 The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation, although Eclipse does have a remarkably high percentage of 3rolls in words like COULD WOULD WORLD POINT YOU etc. The weakest aspects of Eclipse are lateral stretches like RD and CA, as well as its high SFS percentage which is mostly caused by the left middle and left index finger columns. This is at least slightly mitigated by being on dominant fingers.
@@ -16,29 +15,23 @@ Eclipse has an efficient heatmap thanks to a few design considerations. ZXQJ are
 
 ## Fingermap 
 ![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
-### Left Pinky:
-BNZ column is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger. SFBs in words like RAINBOW, BRONZE and SFS in BAND, ZONE are rare enough to make sure this the lowest SFB/SFS column in the layout.
-
-### Left Ring:
-FSX column is similar to BNZ since it's also popular as a pinky column found in other layouts, making it a great candidate for the ring finger to handle comfortably. Slightly higher SFS in this column in words like FAST SIX and FIX but using left middle for X can sometimes help reduce SFS and improve scissors in words like ANXIETY. 
+### Left Pinky/Ring:
+BNZ and FSX are the two lowest usage/SFB/SFS columns in the layout in order to alleviate their responsibilities as they are generally the weakest fingers with limited anatomical freedom. 
 
 ### Left Middle:
 RLH is one of the main sources of SFB and SFS but there is a design plan for this. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, therefore it is placed on a strong and flexible middle finger allowing you to alt-finger almost all SFBs present like RL HR and HL in words like WORLD THROUGH and HIGHLY.
 
 ### Left Index:
-DTMVKQ is the other main cause of SFS and the total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are responsible for only 1.7% of the usage. SFBs like DV and TD can be alt-fingered meanwhile bigrams like DM and TM in words like ADMIT and NIGHTMARE are best to dealt with head-on rather than alt-fingered.
+DTMVKQ is low SFB but it is the other main cause of SFS and the total usage is quite high, but it's mostly concentrated within the DTM cluster since the outer VKQ keys are only responsible for less than 2% of the usage. The efficient arrangement of SFS prone keys being in close proximity ensures the left index should be able to handle responsibility well.
 
 ### Right Index:
-GCWPYJ is a much lighter index and the main SFBs PY CY in words like TYPE FANCY are able to be alt-fingered away due to the central Y key positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
+GCWPYJ is lighter in total usage and SFS compared to left index since all the letters are similar in frequency, aside from J which is only 0.1% so it is therefore placed in the farthest corner position. PY and CY are the main SFBs in words like TYPE FANCY which able to be alt-fingered away due to the central Y key positioning. The main sources of SFS are W_Y P_C and P_Y so they are all positioned alongside to each other to allow for minimized movement.
 
-### Right Middle:
-OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOUT and DON'T but overall this arrangement provides more positives than it does negatives as a result of maintaining the vowel block which is integral for keeping total SFB and redirects low.
-
-### Right Ring:
-UE: column deals with more SFB than OA' however most of the examples consist of downward SFBs like TRUE and BLUE which can be typed in a sliding motion to help promote typing these bigrams faster. The usage is also quite high since E is the most frequent letter.
+### Right Middle/Ring:
+OA' and UE; columns are somewhat SFB prone but the examples mostly consist of downward motions like BOAT, WHO'S, TRUE, BLUE which can be typed in a sliding motion to help promote typing at a fast speed. Unfortunately E is the most frequent letter, but the SFB and redirect benefits of maintaining this specifc vowel block structure outweigh the negatives of its high total usage.
 
 ### Right Pinky: 
-I., is another classic column, but turned into a triangular cluster in order to allow for better rolling motions. This unique positioning helps while typing sequences like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved rolling and naturally angles your hand and wrist in an ergonomic way. 
+I., is a common low SFB column, but turned into a triangular cluster in order to allow for better rolling motions. This positioning helps when typing sequences like TO, and YOU, because comma would normally be placed on the bottom row, which would result in a ring/pinky scissor from top row U to bottom row, but now the U and comma keys are placed on the same row allowing for improved rolling and naturally angles your hand and wrist in an ergonomic way. 
 
 
 ## Genealogy 
