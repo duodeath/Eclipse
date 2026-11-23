@@ -7,13 +7,15 @@
 
 The main objective of Eclipse is to optimize for extremely low SFB percentage, especially on the left ring and pinky fingers as they lack anatomical freedom and the positional benefits that middle and index finger columns take advantage of with alt-fingering to achieve even lower SFB. Eclipse's intuitive alt-fingering effectively halves the already low amount of SFB, this creates a case where the SFB and alt-fingering percentage are close in frequency, providing great bang for your buck value in reducing SFB without requiring much extra effort in the learning process.
 
+The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation, although Eclipse does have a remarkably high percentage of 3rolls in words like COULD WOULD WORLD POINT YOU etc. The weakest aspects of Eclipse are lateral stretches like RD and CA, as well as its high SFS percentage which is mostly caused by the left middle and left index finger columns. This is at least slightly mitigated by being on dominant fingers.
+
+Heatmap:
+![heatmap](https://i.ibb.co/N5DgJh7/Screenshot-2026-11-23-at-12-15-13-AM.png)
+
 ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. This framework results in a balanced fingermap that prevents any one finger from becoming under/over utilized.  
 
-The redirects and rolls are both on the low side, which isn't positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation, although Eclipse does have a remarkably high percentage of 3rolls in words like COULD WOULD WORLD POINT YOU etc. The weakest aspects of Eclipse are lateral stretches like RD and CA, as well as its high SFS percentage which is mostly caused by the left middle and left index finger columns. This is at least slightly mitigated by being on dominant fingers which you could use to expand your alt-fingering beyond SFB to target SFS, at the cost of having an increased amount of fingerings to learn.
-
-
 ## Fingermap Analysis
-![fingermap](https://i.ibb.co/XZfjN8yn/Screenshot-2026-11-12-at-3-19-33-AM.png)
+![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
 ### Left Pinky:
 BNZ column is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger. SFBs in words like RAINBOW, BRONZE and SFS in BAND, ZONE are rare enough to make sure this the lowest SFB/SFS column in the layout.
 
