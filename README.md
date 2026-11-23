@@ -14,7 +14,7 @@ The redirects and rolls are both on the low side, which isn't positive or negati
 
 ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. This framework results in a balanced fingermap that prevents any one finger from becoming under/over utilized.  
 
-## Fingermap Analysis
+## Fingermap 
 ![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
 ### Left Pinky:
 BNZ column is a popular pinky setup among modern layouts due to its low usage and good SFB/SFS which are great qualities for a pinky column as it is generally the weakest and least dextrous finger. SFBs in words like RAINBOW, BRONZE and SFS in BAND, ZONE are rare enough to make sure this the lowest SFB/SFS column in the layout.
