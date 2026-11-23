@@ -16,7 +16,7 @@ Eclipse has an efficient heatmap thanks to a few design considerations. ZXQJ are
 ## Fingermap 
 ![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
 ### Left Pinky/Ring:
-BNZ and FSX are the two lowest usage/SFB/SFS columns in the layout in order to alleviate their responsibilities as they are generally the weakest fingers with limited anatomical freedom. These left side columns also don't contribute much to weak redirects (awkward redirects involving only the pinky, ring, and middle finger keys) compared to other layouts that may place R on ring which can be a primary source of these types of motions.
+BNZ and FSX are the two lowest usage, SFB, and SFS columns in the layout in order to alleviate their responsibilities as they are generally the weakest fingers with limited anatomical freedom. These left side columns also don't contribute much to weak redirects (awkward redirects involving only the pinky, ring, and middle finger keys) compared to other layouts that may place R on ring which can be a primary source of these types of motions.
 
 ### Left Middle:
 RLH is one of the main sources of SFB and SFS but there is a design plan for this. The letters are arranged in a triangular cluster rather than a straight column which is notable because it promotes lower movement in a small concentrated area as a result of all 3 keys being adjacent to one another. R is a particularly difficult letter to pair with other letters SFB wise, therefore it is placed on a strong and flexible middle finger allowing you to alt-finger almost all SFBs present like RL HR and HL in words like WORLD THROUGH and HIGHLY.
