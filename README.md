@@ -29,7 +29,7 @@ RLH is one of the main sources of SFB and SFS but there is a design plan for thi
 DTMVKQ is the other main cause of SFS and the total usage is quite high, but it's mostly contained within the DTM cluster since the outer VKQ keys are responsible for only 1.7% of the usage. SFBs like DV and TD can be alt-fingered meanwhile bigrams like DM and TM in words like ADMIT and NIGHTMARE are best to dealt with head-on rather than alt-fingered.
 
 ### Right Index:
-GCWPYJ is a much lighter index and the main SFBs PY CY GY in words like TYPE FANCY and ENERGY are able to be alt-fingered away due to the central Y key positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
+GCWPYJ is a much lighter index and the main SFBs PY CY in words like TYPE FANCY are able to be alt-fingered away due to the central Y key positioning. Because the SFBs here are solved with alt-fingering the bigger concern is the SFS but luckily the main sources like W_Y P_C and P_Y are all adjacent to allow for minimized movement.
 
 ### Right Middle:
 OA' column has some SFBs in words like ROAD and WHO'S and SFS in words like ABOUT and DON'T but overall this arrangement provides more positives than it does negatives as a result of maintaining the vowel block which is integral for keeping total SFB and redirects low.
