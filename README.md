@@ -12,7 +12,7 @@ The redirects and rolls are both on the low side, which isn't positive or negati
 ## Heatmap
 ![heatmap](https://i.ibb.co/N5DgJh7/Screenshot-2026-11-23-at-12-15-13-AM.png)
 
-ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. This framework results in a balanced fingermap that prevents any one finger from becoming under/over utilized.  
+Eclipse has an exceptionally good heatmap due to a few design considerations. ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, stretches, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. V and K are the next lowest frequency keys aside from ZXQJ and are subsequently placed in the top right/bottom left index corner positions. This framework results in a balanced and symmetrical fingermap that prevents any one finger from becoming under/over utilized.  
 
 ## Fingermap 
 ![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
