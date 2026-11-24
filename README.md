@@ -35,11 +35,10 @@ I., in most cases these keys are stacked on top of each other, which creates a s
 
 
 ## Genealogy 
-Eclipse is very similar to the Night layout, hence the name association, with the biggest difference of rearranging the index columns, moving V from ring to index to help lower weak finger usage while prioritizing dominant fingers, and moving the R key from left thumb onto the main board, although a few other layouts were first to make this change like Knight, Nightshift, and Nightlight. The RLH cluster and fingermap were borrowed features from the Nokwts layout, which must be praised for its creativity and usefulness in providing flexible alt-fingerings that pair well with the standard row-staggered form factor. Perhaps the first layout creation that showcases many of the same columns as Night and Eclipse, is Flow2: BN pinky, FS ring, RLH middle, DTMKQ left index, GCWPYJ right index, with some different arrangements but the similarities make it clear this is likely the layout to first utilize these columns.
+Eclipse is similar to the Night layout, hence the name association, with the biggest difference of rearranging the index columns, moving V from ring to index to help lower weak finger usage while prioritizing dominant fingers, and moving the R key from left thumb onto the main board, although a few other layouts were first to make this change like Knight, Nightshift, and Nightlight. The RLH cluster and fingermap were borrowed features from the Nokwts layout, which must be praised for its creativity and usefulness in providing flexible alt-fingerings that pair well with the standard row-staggered form factor. Perhaps the first layout creation that showcases many of the same columns as Night and Eclipse, is Flow2: BN pinky, FS ring, RLH middle, DTMKQ left index, GCWPYJ right index, with some different arrangements but the similarities make it clear this is likely the layout to first utilize these columns.
 
 
-## Additional Recommendations
-### Wide-Mod/Thumb Shift
+## Additional Recommendations: Wide Mod/Thumb Shift
 ![wide-mod](https://i.ibb.co/60mgcrwR/415-A3-DBF-F29-D-4146-8771-A5-F0-A1-C057-B9.jpg)
 Instead of the typical double pinky shift setup found on most layouts, this modification moves shift and caps-lock to the right thumb since they are similar in function, as well as moving the entire right hand one position over to the right in order to improve the angle in which these new thumb keys are used. This helps lower pinky usage and movement, and you no longer need to decide whether to use left or right shift while typing capital B N or Z keys as there's only one shift key appointed to thumb with no other responsibilities, unlike the pinkies which have their own letters to deal with.
 
