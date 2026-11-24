@@ -15,6 +15,9 @@ Eclipse has an efficient heatmap thanks to a few design considerations. ZXQJ are
 
 ## Fingermap 
 ![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
+
+You should generally stick to this fingermap unless encountering an SFB, the main ones being RL, HR, DV, PY, CY. You could choose to expand your alt-fingerings to help lower SFS as well, but this would require more time and effort in the learning process that may not be necessarily worth it for everyone.
+
 ### Left Pinky/Ring:
 BNZ and FSX are the two lowest usage, SFB, and SFS columns in the layout in order to alleviate their responsibilities as they are generally the weakest fingers with limited anatomical freedom. These left side columns also don't contribute much to weak redirects (awkward redirects involving only the pinky, ring, and middle finger keys) compared to other layouts that place R on ring which can be a primary source for these types of motions.
 
