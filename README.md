@@ -14,7 +14,7 @@ The redirects and rolls are both on the low side, which isn't really positive or
 Eclipse has an efficient heatmap thanks to a few design considerations. ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. V and K are the next lowest frequency keys aside from ZXQJ and are subsequently placed in the top right/bottom left index corner positions. This framework results in a balanced and symmetrical fingermap that prevents any one finger from becoming under/over utilized.  
 
 ## Fingermap 
-![fingermap](https://i.ibb.co/9dgW1b5/Screenshot-2026-11-23-at-12-17-47-AM.png)
+![fingermap](https://i.ibb.co/SHHJq1L/IMG-6084.png)
 
 Users should generally stick to this fingermap unless encountering an SFB, the main ones being RL, HR, DV, PY, CY. You could choose to expand your alt-fingerings to help lower SFS as well, but this would require more time and effort in the learning process which may not be beneficial for everyone.
 
