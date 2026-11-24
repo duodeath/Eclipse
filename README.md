@@ -9,7 +9,7 @@ The main objective of Eclipse is to optimize for extremely low SFB percentage, e
 The redirects and rolls are both on the low side, which isn't really positive or negative. The alternations on the other hand are notably high which isn't necessarily bad either but many typists find rolls to be superior to alternation, although Eclipse does have a remarkably high percentage of 3rolls in words like COULD WOULD WORLD POINT YOU etc. The weakest aspects of Eclipse are lateral stretches like RD and CA, as well as its high SFS percentage which is mostly caused by the left middle and left index finger columns. This is at least slightly mitigated by being on dominant fingers.
 
 ## Heatmap
-![heatmap](https://i.ibb.co/pjRxdZ0N/Screenshot-2026-11-24-at-1-47-05-PM.png)
+![heatmap](https://i.ibb.co/WNq9LFSJ/IMG-6083.png)
 
 Eclipse has an efficient heatmap thanks to a few design considerations. ZXQJ are the lowest frequency letters so they are placed in the farthest corners of the keyboard to help reduce movement, and limits pinky/ring fingers to only 2 main keys rather than full 3 key columns, as well as limiting both indexes to 5 main keys rather than full 6 key index setups. V and K are the next lowest frequency keys aside from ZXQJ and are subsequently placed in the top right/bottom left index corner positions. This framework results in a balanced and symmetrical fingermap that prevents any one finger from becoming under/over utilized.  
 
